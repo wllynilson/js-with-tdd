@@ -1,0 +1,24 @@
+{
+  "name": "js-with-tdd",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso JS com TDD na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wllynilson/js-with-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Wllynilson Carneiro <wllynilson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wllynilson/js-with-tdd/issues"
+  },
+  "homepage": "https://github.com/wllynilson/js-with-tdd#readme"
+}
